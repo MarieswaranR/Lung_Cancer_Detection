@@ -16,6 +16,15 @@ git clone https://github.com/your-username/lung-cancer-detection.git
 Install Dependencies:
 pip install -r requirements.txt
 
+Dataset
+We obtained our lung cancer image dataset from Kaggle. The dataset includes a collection of medical images (such as CT scans and X-rays) relevant to lung cancer detection. Each image has been labeled as either healthy or potentially cancerous.
+
+Dataset Details
+Source: Kaggle
+Link: Lung Cancer Image Dataset
+Description: The dataset contains a total of N images, with M healthy samples and K potentially cancerous samples.
+Feel free to explore the dataset further and cite any relevant research papers or sources that contributed to its creation.
+
 Data Preparation:
 Obtain labeled lung images (CT scans, X-rays, etc.).
 Organize your dataset into train, validation, and test sets.
